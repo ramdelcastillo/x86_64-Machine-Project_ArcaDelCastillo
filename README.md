@@ -1,5 +1,7 @@
 ## LBYARCH x86_64 Machine Project
-This project implements a horizontal image flip, where each row of pixels in a 2D array is reversed, using an assembly function callable from C. It demonstrates basic image manipulation with arrays representing pixel values.<br><br>
+<p align="justify">
+This project implements a horizontal image flip, where each row of pixels in a 2D array is reversed, using an assembly function callable from C. It demonstrates basic image manipulation with arrays representing pixel values.<br>
+</p>
 Created by:<br> Althea Denisse Arca <br>
 Jose Mari Del Castillo<br><br>
 Submission Date: July 10, 2024
